@@ -20,7 +20,7 @@ Some commands for using github on Ubuntu
 - Connecting local repo dir with existing github repo
     git remote add origin https://github.com/username/repo_name.git
 - Push commits
-    git push origin master
+    git push origin branch_name
  - Cloning a repo
     git clone https://github.com/user name/repository name
  - Pulling from repo (assuming it's already linked)
